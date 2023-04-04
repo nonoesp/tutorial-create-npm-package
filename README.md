@@ -34,7 +34,7 @@ yarn build # or node build.mjs
 
 ## BrokenString.tsx
 
-React component that turns a string into <li> components inside of a <ul>.
+React component that turns a string into `<li>` components inside of a `<ul>`.
 No real use other than illustrate a React component.
 
 ## cli.ts
