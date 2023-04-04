@@ -1,4 +1,4 @@
-## Creating an NPM Package and Command-Line Tool
+## Release Components & CLI Tools to NPM
 
 Here's a sample project to illustrate a few things.
 
